@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Nicolas Bernardo 
 
-<!--
-**nicolaspaulaneves-star/nicolaspaulaneves-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante e estou aprendendo programação.
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+	## fraze do do dia Com qualquer pé de galinha se faz uma sopa 
+  ou quem cemeia vento colhe tempestade Frazes de Marcelo informatica..
+## Contato
+## nicolas.paula.neves@escola.pr.gov.br
